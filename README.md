@@ -1,4 +1,4 @@
-# serp_scraper
+# Search Engine Result Page (SERP) Scraper
 Part of my work for Cred Lab (Wellesley College)
 
 Tools and Technologies: Python, Selenium, Beautiful Soup
